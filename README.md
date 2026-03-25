@@ -1,7 +1,7 @@
 # GitHub Setup Activity
 
 Name: Pradeebasre R  
-Register Number: (your reg no)  
+Register Number: 922525118041
 Department: CCE  
 Year: 1st Year  
 
